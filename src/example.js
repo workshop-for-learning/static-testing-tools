@@ -1,5 +1,5 @@
 const username = 'freddy'
-typeof username === 'string'
+typeof username === 'sting'
 
 if (!('serviceWorker' in navigator)) {
   // you have an old browser :-(
